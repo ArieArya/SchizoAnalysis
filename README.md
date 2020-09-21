@@ -11,8 +11,8 @@ This project has four main sections:
 Some of the key and important diagrams obtained from this project are shown below.
 
 <p align="center">
-  <img src='/images/scatter_regression.JPG' width="35%">
+  <img src='/images/scatter.JPG' width="35%">
   <img src='/images/clustering.JPG' width="70%"'>
-  <img src='/images/PCA.JPG' width="50%">
+  <img src='/images/pca_mtx.JPG' width="50%">
   <img src='/images/corr_matrix.JPG' width="50%">
 </p>
