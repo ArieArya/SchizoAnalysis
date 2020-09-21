@@ -10,6 +10,6 @@ This project has four main sections:
 
 Some of the key and important diagrams obtained from this project are shown below.
 
-<img src='/images/scatter_regression.JPG' style='width:50%'>
-<img src='/images/clustering.JPG' style='width:50%'>
-<img src='/images/PCA.JPG' style='width:50%'>
+<img src='/images/scatter_regression.JPG' style='width:30%;text-align:center'>
+<img src='/images/clustering.JPG' style='width:30%;text-align:center'>
+<img src='/images/PCA.JPG' style='width:30%;text-align:center'>
